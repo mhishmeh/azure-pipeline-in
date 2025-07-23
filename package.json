@@ -1,0 +1,23 @@
+{
+  "name": "azure-pipeline-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhishmeh/azure-pipeline-in.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhishmeh/azure-pipeline-in/issues"
+  },
+  "homepage": "https://github.com/mhishmeh/azure-pipeline-in#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0",
+    "dotenv": "^17.2.0"
+  }
+}
